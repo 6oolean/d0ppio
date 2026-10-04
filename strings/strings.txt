@@ -1,0 +1,6 @@
+- A group of characters enclosed within double quotes (" ") is known as a string
+- A string is a non-primitive datatype
+
+IN-BUILT METHODS OF STRING CLASS
+1. length()     - nonstatic method of string class, returns length of a string
+2. charAt()     - nonstatic method of string class, fetches the character from a string using index values
